@@ -43,5 +43,6 @@ while start <= end:
         ans = mid
     else:
         end = mid - 1
+        
 print(ans)
     
